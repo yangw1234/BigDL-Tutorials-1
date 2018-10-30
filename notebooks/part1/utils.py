@@ -13,12 +13,12 @@ def get_mnist(sc, mnist_path):
     rdd_test_images = sc.parallelize(test_images)
     rdd_test_labels = sc.parallelize(test_labels)
 
-    rdd_train_sample = rdd_train_images.zip(rdd_train_labels).map(lambda (features, label):
+    rdd_train_sample = rdd_train_images.zip(rdd_train_labels).map(lambda record:
                                         common.Sample.from_ndarray(
-                                        (features - training_mean) / training_std,
-                                        label + 1))
-    rdd_test_sample = rdd_test_images.zip(rdd_test_labels).map(lambda (features, label):
+                                        (record[0] - training_mean) / training_std,
+                                        record[1] + 1))
+    rdd_test_sample = rdd_test_images.zip(rdd_test_labels).map(lambda record:
                                         common.Sample.from_ndarray(
-                                        (features - training_mean) / training_std,
-                                        label + 1))
+                                        (record[0] - training_mean) / training_std,
+                                        record[1] + 1))
     return (rdd_train_sample, rdd_test_sample)
