@@ -1,0 +1,141 @@
+--2018-11-07 01:23:23--  https://raw.githubusercontent.com/numenta/NAB/master/data/realKnownCause/nyc_taxi.csv
+Resolving raw.githubusercontent.com (raw.githubusercontent.com)... 151.101.64.133, 151.101.128.133, 151.101.192.133, ...
+Connecting to raw.githubusercontent.com (raw.githubusercontent.com)|151.101.64.133|:443... failed: Connection timed out.
+Connecting to raw.githubusercontent.com (raw.githubusercontent.com)|151.101.128.133|:443... failed: Connection timed out.
+Connecting to raw.githubusercontent.com (raw.githubusercontent.com)|151.101.192.133|:443... failed: Connection timed out.
+Connecting to raw.githubusercontent.com (raw.githubusercontent.com)|151.101.0.133|:443... failed: Connection timed out.
+Retrying.
+
+--2018-11-07 01:32:06--  (try: 2)  https://raw.githubusercontent.com/numenta/NAB/master/data/realKnownCause/nyc_taxi.csv
+Connecting to raw.githubusercontent.com (raw.githubusercontent.com)|151.101.64.133|:443... failed: Connection timed out.
+Connecting to raw.githubusercontent.com (raw.githubusercontent.com)|151.101.128.133|:443... failed: Connection timed out.
+Connecting to raw.githubusercontent.com (raw.githubusercontent.com)|151.101.192.133|:443... failed: Connection timed out.
+Connecting to raw.githubusercontent.com (raw.githubusercontent.com)|151.101.0.133|:443... failed: Connection timed out.
+Retrying.
+
+--2018-11-07 01:40:51--  (try: 3)  https://raw.githubusercontent.com/numenta/NAB/master/data/realKnownCause/nyc_taxi.csv
+Connecting to raw.githubusercontent.com (raw.githubusercontent.com)|151.101.64.133|:443... failed: Connection timed out.
+Connecting to raw.githubusercontent.com (raw.githubusercontent.com)|151.101.128.133|:443... failed: Connection timed out.
+Connecting to raw.githubusercontent.com (raw.githubusercontent.com)|151.101.192.133|:443... failed: Connection timed out.
+Connecting to raw.githubusercontent.com (raw.githubusercontent.com)|151.101.0.133|:443... failed: Connection timed out.
+Retrying.
+
+--2018-11-07 01:49:39--  (try: 4)  https://raw.githubusercontent.com/numenta/NAB/master/data/realKnownCause/nyc_taxi.csv
+Connecting to raw.githubusercontent.com (raw.githubusercontent.com)|151.101.64.133|:443... failed: Connection timed out.
+Connecting to raw.githubusercontent.com (raw.githubusercontent.com)|151.101.128.133|:443... failed: Connection timed out.
+Connecting to raw.githubusercontent.com (raw.githubusercontent.com)|151.101.192.133|:443... failed: Connection timed out.
+Connecting to raw.githubusercontent.com (raw.githubusercontent.com)|151.101.0.133|:443... failed: Connection timed out.
+Retrying.
+
+--2018-11-07 01:58:26--  (try: 5)  https://raw.githubusercontent.com/numenta/NAB/master/data/realKnownCause/nyc_taxi.csv
+Connecting to raw.githubusercontent.com (raw.githubusercontent.com)|151.101.64.133|:443... failed: Connection timed out.
+Connecting to raw.githubusercontent.com (raw.githubusercontent.com)|151.101.128.133|:443... failed: Connection timed out.
+Connecting to raw.githubusercontent.com (raw.githubusercontent.com)|151.101.192.133|:443... failed: Connection timed out.
+Connecting to raw.githubusercontent.com (raw.githubusercontent.com)|151.101.0.133|:443... failed: Connection timed out.
+Retrying.
+
+--2018-11-07 02:07:16--  (try: 6)  https://raw.githubusercontent.com/numenta/NAB/master/data/realKnownCause/nyc_taxi.csv
+Connecting to raw.githubusercontent.com (raw.githubusercontent.com)|151.101.64.133|:443... failed: Connection timed out.
+Connecting to raw.githubusercontent.com (raw.githubusercontent.com)|151.101.128.133|:443... failed: Connection timed out.
+Connecting to raw.githubusercontent.com (raw.githubusercontent.com)|151.101.192.133|:443... failed: Connection timed out.
+Connecting to raw.githubusercontent.com (raw.githubusercontent.com)|151.101.0.133|:443... failed: Connection timed out.
+Retrying.
+
+--2018-11-07 02:16:05--  (try: 7)  https://raw.githubusercontent.com/numenta/NAB/master/data/realKnownCause/nyc_taxi.csv
+Connecting to raw.githubusercontent.com (raw.githubusercontent.com)|151.101.64.133|:443... failed: Connection timed out.
+Connecting to raw.githubusercontent.com (raw.githubusercontent.com)|151.101.128.133|:443... failed: Connection timed out.
+Connecting to raw.githubusercontent.com (raw.githubusercontent.com)|151.101.192.133|:443... failed: Connection timed out.
+Connecting to raw.githubusercontent.com (raw.githubusercontent.com)|151.101.0.133|:443... failed: Connection timed out.
+Retrying.
+
+--2018-11-07 02:24:54--  (try: 8)  https://raw.githubusercontent.com/numenta/NAB/master/data/realKnownCause/nyc_taxi.csv
+Connecting to raw.githubusercontent.com (raw.githubusercontent.com)|151.101.64.133|:443... failed: Connection timed out.
+Connecting to raw.githubusercontent.com (raw.githubusercontent.com)|151.101.128.133|:443... failed: Connection timed out.
+Connecting to raw.githubusercontent.com (raw.githubusercontent.com)|151.101.192.133|:443... failed: Connection timed out.
+Connecting to raw.githubusercontent.com (raw.githubusercontent.com)|151.101.0.133|:443... failed: Connection timed out.
+Retrying.
+
+--2018-11-07 02:33:46--  (try: 9)  https://raw.githubusercontent.com/numenta/NAB/master/data/realKnownCause/nyc_taxi.csv
+Connecting to raw.githubusercontent.com (raw.githubusercontent.com)|151.101.64.133|:443... failed: Connection timed out.
+Connecting to raw.githubusercontent.com (raw.githubusercontent.com)|151.101.128.133|:443... failed: Connection timed out.
+Connecting to raw.githubusercontent.com (raw.githubusercontent.com)|151.101.192.133|:443... failed: Connection timed out.
+Connecting to raw.githubusercontent.com (raw.githubusercontent.com)|151.101.0.133|:443... failed: Connection timed out.
+Retrying.
+
+--2018-11-07 02:42:37--  (try:10)  https://raw.githubusercontent.com/numenta/NAB/master/data/realKnownCause/nyc_taxi.csv
+Connecting to raw.githubusercontent.com (raw.githubusercontent.com)|151.101.64.133|:443... failed: Connection timed out.
+Connecting to raw.githubusercontent.com (raw.githubusercontent.com)|151.101.128.133|:443... failed: Connection timed out.
+Connecting to raw.githubusercontent.com (raw.githubusercontent.com)|151.101.192.133|:443... failed: Connection timed out.
+Connecting to raw.githubusercontent.com (raw.githubusercontent.com)|151.101.0.133|:443... failed: Connection timed out.
+Retrying.
+
+--2018-11-07 02:51:31--  (try:11)  https://raw.githubusercontent.com/numenta/NAB/master/data/realKnownCause/nyc_taxi.csv
+Connecting to raw.githubusercontent.com (raw.githubusercontent.com)|151.101.64.133|:443... failed: Connection timed out.
+Connecting to raw.githubusercontent.com (raw.githubusercontent.com)|151.101.128.133|:443... failed: Connection timed out.
+Connecting to raw.githubusercontent.com (raw.githubusercontent.com)|151.101.192.133|:443... failed: Connection timed out.
+Connecting to raw.githubusercontent.com (raw.githubusercontent.com)|151.101.0.133|:443... failed: Connection timed out.
+Retrying.
+
+--2018-11-07 03:00:23--  (try:12)  https://raw.githubusercontent.com/numenta/NAB/master/data/realKnownCause/nyc_taxi.csv
+Connecting to raw.githubusercontent.com (raw.githubusercontent.com)|151.101.64.133|:443... failed: Connection timed out.
+Connecting to raw.githubusercontent.com (raw.githubusercontent.com)|151.101.128.133|:443... failed: Connection timed out.
+Connecting to raw.githubusercontent.com (raw.githubusercontent.com)|151.101.192.133|:443... failed: Connection timed out.
+Connecting to raw.githubusercontent.com (raw.githubusercontent.com)|151.101.0.133|:443... failed: Connection timed out.
+Retrying.
+
+--2018-11-07 03:09:16--  (try:13)  https://raw.githubusercontent.com/numenta/NAB/master/data/realKnownCause/nyc_taxi.csv
+Connecting to raw.githubusercontent.com (raw.githubusercontent.com)|151.101.64.133|:443... failed: Connection timed out.
+Connecting to raw.githubusercontent.com (raw.githubusercontent.com)|151.101.128.133|:443... failed: Connection timed out.
+Connecting to raw.githubusercontent.com (raw.githubusercontent.com)|151.101.192.133|:443... failed: Connection timed out.
+Connecting to raw.githubusercontent.com (raw.githubusercontent.com)|151.101.0.133|:443... failed: Connection timed out.
+Retrying.
+
+--2018-11-07 03:18:08--  (try:14)  https://raw.githubusercontent.com/numenta/NAB/master/data/realKnownCause/nyc_taxi.csv
+Connecting to raw.githubusercontent.com (raw.githubusercontent.com)|151.101.64.133|:443... failed: Connection timed out.
+Connecting to raw.githubusercontent.com (raw.githubusercontent.com)|151.101.128.133|:443... failed: Connection timed out.
+Connecting to raw.githubusercontent.com (raw.githubusercontent.com)|151.101.192.133|:443... failed: Connection timed out.
+Connecting to raw.githubusercontent.com (raw.githubusercontent.com)|151.101.0.133|:443... failed: Connection timed out.
+Retrying.
+
+--2018-11-07 03:27:01--  (try:15)  https://raw.githubusercontent.com/numenta/NAB/master/data/realKnownCause/nyc_taxi.csv
+Connecting to raw.githubusercontent.com (raw.githubusercontent.com)|151.101.64.133|:443... failed: Connection timed out.
+Connecting to raw.githubusercontent.com (raw.githubusercontent.com)|151.101.128.133|:443... failed: Connection timed out.
+Connecting to raw.githubusercontent.com (raw.githubusercontent.com)|151.101.192.133|:443... failed: Connection timed out.
+Connecting to raw.githubusercontent.com (raw.githubusercontent.com)|151.101.0.133|:443... failed: Connection timed out.
+Retrying.
+
+--2018-11-07 03:35:53--  (try:16)  https://raw.githubusercontent.com/numenta/NAB/master/data/realKnownCause/nyc_taxi.csv
+Connecting to raw.githubusercontent.com (raw.githubusercontent.com)|151.101.64.133|:443... failed: Connection timed out.
+Connecting to raw.githubusercontent.com (raw.githubusercontent.com)|151.101.128.133|:443... failed: Connection timed out.
+Connecting to raw.githubusercontent.com (raw.githubusercontent.com)|151.101.192.133|:443... failed: Connection timed out.
+Connecting to raw.githubusercontent.com (raw.githubusercontent.com)|151.101.0.133|:443... failed: Connection timed out.
+Retrying.
+
+--2018-11-07 03:44:45--  (try:17)  https://raw.githubusercontent.com/numenta/NAB/master/data/realKnownCause/nyc_taxi.csv
+Connecting to raw.githubusercontent.com (raw.githubusercontent.com)|151.101.64.133|:443... failed: Connection timed out.
+Connecting to raw.githubusercontent.com (raw.githubusercontent.com)|151.101.128.133|:443... failed: Connection timed out.
+Connecting to raw.githubusercontent.com (raw.githubusercontent.com)|151.101.192.133|:443... failed: Connection timed out.
+Connecting to raw.githubusercontent.com (raw.githubusercontent.com)|151.101.0.133|:443... failed: Connection timed out.
+Retrying.
+
+--2018-11-07 03:53:38--  (try:18)  https://raw.githubusercontent.com/numenta/NAB/master/data/realKnownCause/nyc_taxi.csv
+Connecting to raw.githubusercontent.com (raw.githubusercontent.com)|151.101.64.133|:443... failed: Connection timed out.
+Connecting to raw.githubusercontent.com (raw.githubusercontent.com)|151.101.128.133|:443... failed: Connection timed out.
+Connecting to raw.githubusercontent.com (raw.githubusercontent.com)|151.101.192.133|:443... failed: Connection timed out.
+Connecting to raw.githubusercontent.com (raw.githubusercontent.com)|151.101.0.133|:443... failed: Connection timed out.
+Retrying.
+
+--2018-11-07 04:02:30--  (try:19)  https://raw.githubusercontent.com/numenta/NAB/master/data/realKnownCause/nyc_taxi.csv
+Connecting to raw.githubusercontent.com (raw.githubusercontent.com)|151.101.64.133|:443... failed: Connection timed out.
+Connecting to raw.githubusercontent.com (raw.githubusercontent.com)|151.101.128.133|:443... failed: Connection timed out.
+Connecting to raw.githubusercontent.com (raw.githubusercontent.com)|151.101.192.133|:443... failed: Connection timed out.
+Connecting to raw.githubusercontent.com (raw.githubusercontent.com)|151.101.0.133|:443... failed: Connection timed out.
+Retrying.
+
+--2018-11-07 04:11:23--  (try:20)  https://raw.githubusercontent.com/numenta/NAB/master/data/realKnownCause/nyc_taxi.csv
+Connecting to raw.githubusercontent.com (raw.githubusercontent.com)|151.101.64.133|:443... failed: Connection timed out.
+Connecting to raw.githubusercontent.com (raw.githubusercontent.com)|151.101.128.133|:443... failed: Connection timed out.
+Connecting to raw.githubusercontent.com (raw.githubusercontent.com)|151.101.192.133|:443... failed: Connection timed out.
+Connecting to raw.githubusercontent.com (raw.githubusercontent.com)|151.101.0.133|:443... failed: Connection timed out.
+Giving up.
+
